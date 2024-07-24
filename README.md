@@ -127,6 +127,14 @@ The dataset for this analysis was provided by the TData Initiative, an organizat
 
 3. City Comparison: To compare the performance of various cities to share best practices and improve overall company performance.
 
+![](https://github.com/Adeyemi012/Supermarket-Sales-Analysis/blob/main/Screenshot%202024-07-27%20204803.png)
+
+### Insights:
+- Naypyitaw: Leads in total sales with $110,569 despite selling 1831 units, indicating potentially higher-priced items or larger transaction values per sale.
+- Yangon: Close behind Naypyitaw with $106,200 in sales and 1859 units sold, showcasing a competitive market with strong transaction volume and customer engagement.
+- Mandalay: Shows solid performance with $106,198 in sales and 1820 units sold, reflecting consistent customer interest and robust purchasing activity.
+
+4. Payment Preferences: To understand customer payment preferences and their effect on purchase behavior, potentially leading to the promotion of certain payment methods.
 
 
 
