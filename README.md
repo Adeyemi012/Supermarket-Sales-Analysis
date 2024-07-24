@@ -136,7 +136,14 @@ The dataset for this analysis was provided by the TData Initiative, an organizat
 
 4. Payment Preferences: To understand customer payment preferences and their effect on purchase behavior, potentially leading to the promotion of certain payment methods.
 
+![](https://github.com/Adeyemi012/Supermarket-Sales-Analysis/blob/main/Screenshot%202024-07-27%20205324.png)
 
+### Insights:
+- Cash: Leads in total sales with $112,207 and 1896 transactions. This indicates a strong preference for cash transactions among customers.
+- E-Wallet: Follows closely with $109,993 in sales and 1892 transactions, showing increasing popularity and usage of digital payment methods.
+- Credit Card: Despite lower total sales at $100,767, credit card transactions total is 1722, highlighting a preference for convenience and deferred payment options.
+
+5. Customer Satisfaction Analysis: To analyze customer ratings to identify factors that affect customer satisfaction and their correlation with sales performance.
 
 
 
