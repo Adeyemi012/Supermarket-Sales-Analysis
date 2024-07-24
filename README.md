@@ -86,6 +86,13 @@ The dataset for this analysis was provided by the TData Initiative, an organizat
 
 ## Dashboard Overview
 
+![](https://github.com/Adeyemi012/Supermarket-Sales-Analysis/blob/main/Supermarket%20Sales%20Dashboard.png)
+
+## Data Analysis and Insights Generation
+
+1.	Customer Insight: To gain a deeper understanding of customer demographics and purchasing patterns to enhance customer segmentation and personalize marketing efforts.
+
+
 
 
 
