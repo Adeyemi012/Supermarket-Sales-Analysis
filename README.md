@@ -102,6 +102,33 @@ The dataset for this analysis was provided by the TData Initiative, an organizat
 
 2. Sales Optimization: To analyze sales trends across different cities, times, and seasons to optimize operational efficiency and staffing.
 
+![](https://github.com/Adeyemi012/Supermarket-Sales-Analysis/blob/main/Screenshot%202024-07-27%20203800.png)
+
+### Insights:
+- Morning Sales
+  - Yangon: Declining from $9,803 in January to $6,199 in March.
+  - Mandalay: Fluctuates, peaking in February at $8,474 but dropping to $3,786 in March.
+  - Naypyitaw: Gradual decline from $7,977 in January to $5,248 in March.
+   
+- Afternoon Sales
+  - Yangon: Strong performance with a rise from $17,587 in January to $19,124 in March.
+  - Mandalay: Stable sales around $15,000 each month.
+  - Naypyitaw: Highest in January at $21,670, dips in February, then recovers to $15,843 in March.
+    
+- Evening Sales
+  - Yangon: Steady decline from $7,112 in January to $3,853 in March.
+  - Mandalay: Gradual increase, reaching $6,680 in March.
+  - Naypyitaw: Increasing trend, peaking at $6,886 in March.
+
+- Night Sales
+  - Yangon: Significant increase in March to $8,483.
+  - Mandalay: Peaks in January at $9,691, then stabilizes.
+  - Naypyitaw: Rising trend, highest in March at $9,222
+
+3. City Comparison: To compare the performance of various cities to share best practices and improve overall company performance.
+
+
+
 
 
 
