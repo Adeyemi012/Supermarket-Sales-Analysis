@@ -145,6 +145,31 @@ The dataset for this analysis was provided by the TData Initiative, an organizat
 
 5. Customer Satisfaction Analysis: To analyze customer ratings to identify factors that affect customer satisfaction and their correlation with sales performance.
 
+![](https://github.com/Adeyemi012/Supermarket-Sales-Analysis/blob/main/Screenshot%202024-07-27%20205844.png)
+
+### Insights:
+- Low Satisfaction: Generates $53,916 in sales with 845 transactions. This segment indicates areas where improvements in customer experience may be needed to increase satisfaction.
+- Moderate Satisfaction: Leads in sales with $109,312 and 1891 transactions. This suggests a satisfactory level of customer experience, with potential for further enhancement to drive loyalty.
+- High Satisfaction: Shows $53,379 in sales and 936 transactions. Customers in this segment are highly satisfied, indicating effective service delivery and positive customer relations.
+- Exceptional Satisfaction: Achieves $106,360 in sales with 1838 transactions. This segment represents loyal customers who are highly satisfied, driving significant revenue and potential referrals.
+
+## Recommendations
+
+1.	Customer insight: To boost satisfaction and sales, enhance the shopping experience for female members. They spend the most, especially on Food and Beverages. Offer personalized promotions, loyalty rewards, and targeted marketing to further increase their engagement and spending, driving overall growth.
+
+2.	Sales optimization: Focus on enhancing afternoon sales strategies across all cities, as this time slot shows the highest potential for consistent revenue growth. Implement targeted promotions and customer engagement activities during this period to maximize sales.
+
+3.	City comparison: Focus on increasing sales initiatives in Naypyitaw during the morning and afternoon periods, as this city shows potential for growth with consistent demand across these times. Implement targeted marketing campaigns and promotions tailored to local preferences to maximize sales opportunities throughout the day.
+
+4.	Payment preferences: Since many customers prefer paying with cash, it's a good idea to make sure we always have cash as an option. We could also promote using e-wallets more by offering discounts or special deals for customers who use them. This way, we can make it easier for customers to pay and encourage them to spend more in our store.
+
+5.	Customer satisfaction analysis: To sustain growth and boost loyalty, focus on exceeding the expectations of customers who rate their experience 8-10. Consistently deliver exceptional service to foster loyalty, increase retention, and leverage positive word-of-mouth to attract new customers, strengthening our customer base and driving long-term profitability.
+
+## Conclusion
+
+The supermarket faces a profitability challenge with its gross income offset by government taxes. Our recommendations focus on boosting revenue through enhanced customer satisfaction, optimized pricing strategies, and leveraging popular payment methods. Implementing these strategies aims to improve financial performance and ensure sustainable profitability.
+
+## Additional Resources
 
 
 
