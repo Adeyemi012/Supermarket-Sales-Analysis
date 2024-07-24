@@ -83,14 +83,24 @@ The dataset for this analysis was provided by the TData Initiative, an organizat
 
 ### Tools used
 - Microsoft Excel. [Download here](https://www.microsoft.com/en-us/microsoft-365/excel)
+  
 
 ## Dashboard Overview
 
 ![](https://github.com/Adeyemi012/Supermarket-Sales-Analysis/blob/main/Supermarket%20Sales%20Dashboard.png)
 
+
 ## Data Analysis and Insights Generation
 
 1.	Customer Insight: To gain a deeper understanding of customer demographics and purchasing patterns to enhance customer segmentation and personalize marketing efforts.
+
+![](https://github.com/Adeyemi012/Supermarket-Sales-Analysis/blob/main/Screenshot%202024-07-27%20203009.png)
+
+### Insights:
+- Members with membership cards spend the most on everyday essentials like Food and Beverages, totaling $31,358. This shows that our membership benefits are driving more frequent and consistent shopping across various categories. On the other hand, non-members prefer high-value, occasional purchases, with Electronic Accessories leading at $29,839. This indicates that non-members are more likely to make significant one-time purchases.
+- Gender affects spending in our membership program. Female members spend more than males, likely due to perceived benefits. Non-members show a smaller spending gap between genders, suggesting less impact from membership incentives. Female members focus on essentials like Food and Beverages, while non-member males spend more on Electronic Accessories and females on Fashion Accessories.
+
+2. Sales Optimization: To analyze sales trends across different cities, times, and seasons to optimize operational efficiency and staffing.
 
 
 
