@@ -170,7 +170,7 @@ The dataset for this analysis was provided by the TData Initiative, an organizat
 The supermarket faces a profitability challenge with its gross income offset by government taxes. Our recommendations focus on boosting revenue through enhanced customer satisfaction, optimized pricing strategies, and leveraging popular payment methods. Implementing these strategies aims to improve financial performance and ensure sustainable profitability.
 
 ## Additional Resources
-
+[Link to Dataset](https://github.com/Adeyemi012/Supermarket-Sales-Analysis/blob/main/TDI%20Excel%20Capstone%20(Supermarket%20Sales%20Datatset).xlsx)
 
 
 
