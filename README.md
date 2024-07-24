@@ -82,7 +82,7 @@ The dataset for this analysis was provided by the TData Initiative, an organizat
      - "Payment" to "Payment Method"
 
 ### Tools used
-- Microsoft Excel. [Download-here](https://www.microsoft.com/en-us/microsoft-365/excel)
+- Microsoft Excel. [Download here](https://www.microsoft.com/en-us/microsoft-365/excel)
 
 ## Dashboard Overview
 
