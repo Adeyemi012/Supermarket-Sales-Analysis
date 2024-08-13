@@ -86,6 +86,7 @@ The dataset for this analysis was provided by the TData Initiative, an organizat
   
 
 ## Dashboard Overview
+You can interact [here](C:\Users\HP\Documents\TDI Collections)
 
 ![](https://github.com/Adeyemi012/Supermarket-Sales-Analysis/blob/main/Supermarket%20Sales%20Dashboard.png)
 
